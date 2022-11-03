@@ -1,5 +1,5 @@
 # E-commerce Data Analysis
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Amira-Chouaieb/E-commerce_analysis/main?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Amira-Chouaieb/E-commerce_analysis/master?filepath=index.ipynb)
 ## présentation:
 ceci est un prototype de projet en analyse de donnée
 on a utilisé la bibliothéque pandas 
@@ -19,5 +19,6 @@ la dataset contient des données  E-commerce:
 |    4 |    536365	  |  RED WOOLLY HOTTIE WHITE HEART. |  6 |  12/1/10 8:26	 |  3.39	 |  17850.0 | United Kingdom  |
 
 ## analyse:
+### on a repondu aux questions suivants:
+Quelles sont les produits qui ont été les plus retournés ?
 
-## conclusion:
