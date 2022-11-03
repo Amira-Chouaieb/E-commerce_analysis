@@ -21,4 +21,5 @@ la dataset contient des données  E-commerce:
 ## analyse:
 ### on a repondu aux questions suivants:
 Quelles sont les produits qui ont été les plus retournés ?
+combien de profits sont réalisés avec les clients ?
 
