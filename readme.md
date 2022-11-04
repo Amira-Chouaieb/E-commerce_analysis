@@ -22,4 +22,6 @@ la dataset contient des données  E-commerce:
 ### on a repondu aux questions suivants:
 Quelles sont les produits qui ont été les plus retournés ?
 combien de profits sont réalisés avec les clients ?
+## conclusion
+L'objectif de cette mission est de trouver les meilleurs articles de vente  en fonction des clients et  des pays aussi les produits qui ont été les plus retournés.
 
